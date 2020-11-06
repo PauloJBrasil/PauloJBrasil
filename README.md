@@ -6,7 +6,6 @@ I Have a little experience with back-end Python and Django development, but now 
 
 ## Fullstack Developer and lookin for challenges
 
-- 💼 I’m currently working on MPC ENEX Comercializadora de energia LTDA
 - 💻 I’m currently learning React, Angular, React Native, NodeJs, Python
 - 🎮 Fun facts: FPS Games lover, playing guitar and anime/manwha lover
 
