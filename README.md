@@ -31,3 +31,6 @@ I Have a little experience with back-end Python and Django development, but now 
 ------------------------------------
 ![PauloJBrasil's github stats](https://github-readme-stats.vercel.app/api?username=PauloJBrasil&show_icons=true&theme=dracula) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloJBrasil&layout=compact&theme=dracula)](https://github.com/PauloJBrasil/github-readme-stats)
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
