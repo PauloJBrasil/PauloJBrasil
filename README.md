@@ -2,7 +2,7 @@
 
 <img align="center" src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg" width="1000px">
 
-I Have a little experience with back-end Python and Django development, but now i'm trying to learn a new stack with React, React Native (Expo) and NodeJs. I have a fews repositories with some of my knolowgements to show you, check it out and give a star if you like it! Thx for your visit! 😆
+Full-stack developer with over 6 years' experience in web, mobile and infrastructure development. He has knowledge of programming, OOP, DevOps, Java, PHP, Node, Python, Typescript, Javascript, C#, TDD/BDD, SOLID, SQL Databases and NOSQL Databases, Git versioning and experience in various version control platforms such as Gitlab, Github, Bitbucket and experience in CI/CD. He has experience in application scalability, experience in monolithic applications and microservices, experience in Cloud such as AWS, GCP and Azure, familiarity with agile methodologies, best development practices. Thx for your visit! 😆
 
 ## Fullstack Developer and lookin for challenges
 
